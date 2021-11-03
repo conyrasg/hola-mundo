@@ -1,0 +1,30 @@
+header{
+background-color: rgb(12, 12, 12);
+color: rgb(255, 254, 254);
+text-align: center;
+
+}
+
+nav{
+    background-color: rgb(203, 230, 221);
+    overflow: hidden;
+}
+main{background-color: silver;
+
+}
+
+section{
+background-color: rgb(240, 228, 126);
+
+}
+h2{
+    text-align: center;
+    color: cornflowerblue;
+}
+footer{
+    background-color: rgba(26, 24, 24, 0.555);
+    color: rgba(248, 14, 6, 0.966);
+    text-align: center;
+  
+   
+}
